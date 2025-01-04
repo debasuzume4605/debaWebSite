@@ -3,7 +3,7 @@
 .page1 {
 
 body {
-    background-image: url(url../../使用した/kyuusityu.png);
+    background-image: url(../../使用した/kyuusityu.png);
     background-size: contain;  /* 画面内に収める */
     /*background-repeat: no-repeat;  繰り返しを防ぐ 
     background-position: center;  画像を中央に配置 */
